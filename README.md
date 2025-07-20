@@ -15,3 +15,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&show_icons=true&locale=en&layout=compact" alt="zapgaming" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zapgaming&show_icons=true&locale=en" alt="zapgaming" /></p>
+
+
+
+
+
+
+
+https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
