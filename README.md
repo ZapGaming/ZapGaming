@@ -23,3 +23,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zapgaming&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+
+
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=zapgaming&theme=Widgetanium)
