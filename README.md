@@ -22,4 +22,4 @@
 
 
 
-<img src="{https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white}" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zapgaming&theme=transparent&hide_border=true)](https://git.io/streak-stats)
