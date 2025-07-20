@@ -27,4 +27,4 @@
 
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=zapgaming&theme=Widgetanium)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=zapgaming&theme=xcode)
