@@ -11,3 +11,4 @@
 
 
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=zapgaming" width="600" /></a>
+<a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
