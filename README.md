@@ -27,4 +27,4 @@
 
 
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=zapgaming&theme=xcode)
+![zapgaming's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zapgaming&theme=kacho_ga&hide_border=true)
