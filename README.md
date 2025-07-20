@@ -1,11 +1,3 @@
-## Hiya
-
-[![Dingus me's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapgaming)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 <h1 align="center">Hiya,Im Zap Gaming</h1>
 <h3 align="center">I started coding at the end of last year and live in Singapore</h3>
 
