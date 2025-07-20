@@ -1,3 +1,3 @@
 ## Hiya
 
-![Im just ur normal stupid dingus](https://linktr.ee/zap_gaming)
+[![Dingus me's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapgaming)](https://github.com/anuraghazra/github-readme-stats)
