@@ -1,3 +1,4 @@
+![Mario](https://ik.imagekit.io/zapgaming/5132-pixel-mario.gif?updatedAt=1753072034355)
 ## ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
