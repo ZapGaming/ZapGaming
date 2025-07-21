@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=zapgaming&theme=kacho_ga&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zapgaming&theme=kacho_ga&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zapgaming&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zapgaming?cardType=octocat&theme=outrun&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
