@@ -1,6 +1,6 @@
 ## Hiya,Im Zap Gaming
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hiya, Im Zap Gaming&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://ik.imagekit.io/zapgaming/Video%20July%2021,%202025%20-%2011_24AM.mp4?updatedAt=1753068370819"/>
 </p>
 
 
