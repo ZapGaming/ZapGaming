@@ -1,7 +1,4 @@
 ## Hiya,Im Zap Gaming
-<p align="center">
-  <img src="https://ik.imagekit.io/zapgaming/Video%20July%2021,%202025%20-%2011_24AM.mp4?updatedAt=1753068370819"/>
-</p>
 
 
 ![zapgaming's Stats](https://github-readme-stats.vercel.app/api?username=zapgaming&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
