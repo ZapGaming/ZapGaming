@@ -1,10 +1,6 @@
 ## ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
-![zapgaming's Stats](https://github-readme-stats.vercel.app/api?username=zapgaming&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
-![zapgaming's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapgaming&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
-
-
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=zapgaming" width="600" /></a>
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
 
