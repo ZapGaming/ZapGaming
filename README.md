@@ -2,6 +2,7 @@
 # ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:zap_gaming7)
 
 
 # 💻Tech Stack
