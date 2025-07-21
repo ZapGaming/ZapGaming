@@ -17,6 +17,7 @@
   
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
