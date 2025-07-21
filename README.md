@@ -1,4 +1,4 @@
-#### ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
+## ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=zapgaming" width="600" /></a>
