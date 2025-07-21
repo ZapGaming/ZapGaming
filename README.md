@@ -11,6 +11,10 @@
 ![zapgaming github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zapgaming)
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=zapgaming&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=35,021D4A,520806&" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&" height="150" alt="languages graph"  />
+  <img src="https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
+  
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
