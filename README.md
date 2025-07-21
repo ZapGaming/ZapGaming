@@ -2,7 +2,7 @@
 # ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1173155162093785099?theme=dark&bg=1593a3&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1173155162093785099)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1173155162093785099?theme=dark&bg=1593a3&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20wasting%20my%20life...)](https://discord.com/users/1173155162093785099)
 
 
 # 💻Tech Stack
