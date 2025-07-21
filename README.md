@@ -1,4 +1,5 @@
 ## Hiya,Im Zap Gaming
+![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
 
 ![zapgaming's Stats](https://github-readme-stats.vercel.app/api?username=zapgaming&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
