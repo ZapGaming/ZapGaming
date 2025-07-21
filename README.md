@@ -1,7 +1,6 @@
 ![Mario](https://ik.imagekit.io/zapgaming/5132-pixel-mario.gif?updatedAt=1753072034355)
 ## ![Hiya](https://ik.imagekit.io/zapgaming/Hiya%20Im%20Zap%20Gaming.gif?updatedAt=1753068867724)
 
-![Ascellayn github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Ascellayn)
 
 ![zapgaming github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zapgaming)
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
