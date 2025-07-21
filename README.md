@@ -1,4 +1,7 @@
 ## Hiya,Im Zap Gaming
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hiya, Im Zap Gaming&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
 ![zapgaming's Stats](https://github-readme-stats.vercel.app/api?username=zapgaming&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
