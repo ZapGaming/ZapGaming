@@ -23,4 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ##Music
-![](https://g.co/gemini/share/e961ab1ebab0)
+<img src="https://g.co/gemini/share/e961ab1ebab0" />
