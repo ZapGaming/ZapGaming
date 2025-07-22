@@ -15,7 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&)
 ![](https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true)
 
-[![Metrics](/github-metrics.svg)](plugin_activity)
+![Metrics](/github-metrics.svg)(plugin.activity)
+![](/github-metrics.plugin.achievements.compact.svg)
+
   
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
