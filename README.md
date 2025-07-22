@@ -23,4 +23,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ##Music
-<img src="https://g.co/gemini/share/e961ab1ebab0" />
+[![Listen to my Spotify Playlist](https://open.spotify.com/playlist/4bcwhxk55m5kuIahoOnR3L?si=TsrorKNPRlm-jKlItwYVdA)](https://open.spotify.com/playlist/4bcwhxk55m5kuIahoOnR3L)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4bcwhxk55m5kuIahoOnR3L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
