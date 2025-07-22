@@ -15,6 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Flashcord&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=zapgaming&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=35,021D4A,520806&)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&" height="150" alt="languages graph"  />
   <img src="https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
   
