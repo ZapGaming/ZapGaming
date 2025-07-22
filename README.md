@@ -23,4 +23,4 @@
 <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-trophies?login=zapgaming" width="600" /></a>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ambient_gradient)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
