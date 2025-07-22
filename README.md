@@ -27,6 +27,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Github Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Flashcord&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Mika&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Widgetanium&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Flashcord&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Mika&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Widgetanium&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
