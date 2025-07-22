@@ -9,13 +9,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 # 📊GitHub Stats :
+![Metrics](/github-metrics.svg)
+
 [![zapgaming github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zapgaming)](https://stats.hyo.dev)
 
 ![](https://github-readme-stats.vercel.app/api?username=zapgaming&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=35,021D4A,520806&)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&)
 ![](https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true)
-
-![Metrics](/github-metrics.svg)
       
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
