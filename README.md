@@ -16,7 +16,7 @@
 ![](https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true)
 
 ![Metrics](/github-metrics.svg)
-![](metrics.plugin.achievements.compact.svg)
+![](/github-metrics.plugin.achievements.compact.svg)
       
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
