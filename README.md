@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 # 📊GitHub Stats :
-![zapgaming github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zapgaming)
+[![zapgaming github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zapgaming)](https://stats.hyo.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=zapgaming&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=35,021D4A,520806&" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zapgaming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&" height="150" alt="languages graph"  />
@@ -21,6 +21,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-##Music
-[![](https://open.spotify.com/embed/playlist/4bcwhxk55m5kuIahoOnR3L?utm_source=generator)](https://open.spotify.com/playlist/4bcwhxk55m5kuIahoOnR3L)
