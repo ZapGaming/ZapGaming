@@ -18,10 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}  
           template: classic
-          plugin_skyline: yes
-          plugin_skyline_year: 2025
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
