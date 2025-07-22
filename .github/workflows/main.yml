@@ -18,6 +18,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}  
           template: classic
-          base: header, metadata
+          plugin_skyline: yes
+          plugin_skyline_year: 2025
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
 
             
