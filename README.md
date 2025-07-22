@@ -17,8 +17,7 @@
 
 ![Metrics](/github-metrics.svg)
 
- <td colspan="2" align="center">
-      <details open><summary>GitHub Skyline</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></details>
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></details>
       <details><summary>GitHub City</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
   
