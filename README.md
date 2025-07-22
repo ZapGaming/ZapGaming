@@ -16,6 +16,11 @@
 ![](https://saviru-githubstreak.vercel.app?user=zapgaming&theme=watchdog-gradient&hide_border=true)
 
 ![Metrics](/github-metrics.svg)
+
+ <td colspan="2" align="center">
+      <details open><summary>GitHub Skyline</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></details>
+      <details><summary>GitHub City</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
   
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zapgaming&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
