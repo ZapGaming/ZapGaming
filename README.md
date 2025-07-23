@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Flashcord&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Mika&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Widgetanium&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=ZapGaming&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=ZapGaming&theme=ambient_gradient&hide_border=true)](https://github.com/ZapGaming/Widgetanium)<br/>
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1173155162093785099?theme=light&bg=D7EBEB&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20wasting%20my%20life...)](https://discord.com/users/1173155162093785099)
