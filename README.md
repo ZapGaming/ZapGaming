@@ -32,3 +32,6 @@
 
 ## Socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1173155162093785099?theme=light&bg=D7EBEB&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20wasting%20my%20life...)](https://discord.com/users/1173155162093785099)
+
+## Genshin Impact
+[![Tevat Map](https://genshin-impact-map.appsample.com/location?names=Statue%20of%20The%20Seven&no_heading=1)](https://mapgenie.io/genshin-impact/maps/teyvat)
