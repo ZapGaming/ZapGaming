@@ -1,5 +1,12 @@
 <h1 align="center">Hi Im Zandy</h1>
 
+<div align="center">
+    <hr width="250px"/>
+    <div align="center">
+        <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31tvmprytsk4qit6lniauvwpsm7q">
+            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31tvmprytsk4qit6lniauvwpsm7q" alt="Data Card for Spotify">
+        </a>
+
 
 <div align="center">
     <hr width="250px"/>
