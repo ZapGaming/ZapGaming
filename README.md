@@ -80,6 +80,3 @@
 
 ## Socials
 [![Discord Presence](https://badge-oq5l.onrender.com/superbadge/1173155162093785099?bg=09090b&borderRadius=20&idleMessage=CHILLING&showDisplayName=true&style=hyper&roastMode=true)](https://discord.com/users/1173155162093785099)
-
-## Genshin Impact
-[![Tevat Map](https://genshin-impact-map.appsample.com/location?names=Statue%20of%20The%20Seven&no_heading=1)](https://mapgenie.io/genshin-impact/maps/teyvat)
