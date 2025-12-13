@@ -79,4 +79,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapgaming&repo=Jareb-Shop&theme=ambient_gradient&hide_border=true)](https://github.com/ZapGaming/Jareb-Shop)<br/>
 
 ## Socials
-[![Discord Presence](https://badge-oq5l.onrender.com/superbadge/1173155162093785099?bg=09090b&borderRadius=20&idleMessage=CHILLING&showDisplayName=true&style=hyper&roastMode=true)](https://discord.com/users/1173155162093785099)
+[![Discord Presence](https://badge-oq5l.onrender.com/superbadge/1173155162093785099?bg=09090b&borderRadius=20&idleMessage=CHILLING&showDisplayName=true&style=hyper&roastMode=true&aifeatures=false&fgAnimations=false)](https://discord.com/users/1173155162093785099)
