@@ -1,11 +1,6 @@
 <h1 align="center">Hi Im Zandy</h1>
 
-<div align="center">
-    <hr width="250px"/>
-    <div align="center">
-        <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31tvmprytsk4qit6lniauvwpsm7q">
-            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31tvmprytsk4qit6lniauvwpsm7q" alt="Data Card for Spotify">
-        </a>
+[![Tokscale Stats](https://tokscale.ai/api/embed/ZapGaming/svg?view=3d)](https://tokscale.ai/u/ZapGaming)
 
 
 
@@ -29,6 +24,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## Socials
-[![Discord Presence](https://badge-oq5l.onrender.com/superbadge/1173155162093785099?bg=09090b&borderRadius=20&idleMessage=CHILLING&showDisplayName=true&style=hyper&roastMode=true&aifeatures=false&fgAnimations=false)](https://discord.com/users/1173155162093785099)
